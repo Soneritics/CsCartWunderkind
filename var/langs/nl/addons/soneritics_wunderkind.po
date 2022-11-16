@@ -1,0 +1,13 @@
+msgid ""
+msgstr "Project-Id-Version: addon\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: nl_NL\n"
+"PO-Revision-Date: 2022-11-15 21:00+0200\n"
+
+msgctxt "Addons::name::soneritics_wunderkind"
+msgid "Soneritics Wunderkind"
+msgstr "Soneritics Wunderkind"
+
+msgctxt "Addons::description::soneritics_wunderkind"
+msgid "Wunderkind integration"
+msgstr "Wunderkind integration"
